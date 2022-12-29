@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(245, 234, 219);
+    margin: 0;
+    padding: 0;
+}
+
+#restaurant{
+    background-color: darkgreen;
+}
